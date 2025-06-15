@@ -29,6 +29,9 @@ Dentro de los siguientes articulos podemos obtener información relevante de com
 
 To HADES and back: UNC2165 shifts to LOCKBIT to evade sanctions. (2022, junio 2). Google Cloud Blog. https://cloud.google.com/blog/topics/threat-intelligence/unc2165-shifts-to-evade-sanctions/
 
+# Video de como funciona Lockbit
+
+ [![Ver Video](https://img.youtube.com/vi/6PEA0nFyc0Q/0.jpg)](https://www.youtube.com/watch?v=6PEA0nFyc0Q)
 
  
 
