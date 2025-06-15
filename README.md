@@ -57,6 +57,15 @@ El Ransomware-as-a-Service (RaaS) está evolucionando hacia un modelo más sofis
 Meland, P. H., Bayoumy, Y. F. F., & Sindre, G. (2020). "The Ransomware-as-a-Service economy within the darknet". Computers & Security, 92, 101762. https://doi.org/10.1016/j.cose.2020.101762
 Para literatura adicional sobre modelos económicos: Economics of RaaS - Google Scholar
 
+# Codigo ejemplo
+Existen múltiples variantes y fragmentos de código de este ransomware distribuidos en distintos repositorios públicos en línea. A continuación, se muestra un ejemplo localizado en GitHub con fines ilustrativos.
+
+![image](https://github.com/user-attachments/assets/4092e047-173e-41a3-b23f-1929314cfc0b)
+
+**Referencia:**
+TXOne Networks. (2023). Malware analysis: LockBit 3.0. https://www.txone.com/blog/malware-analysis-lockbit-3-0/
+Tennessene. (2023). LockBit [Source code]. GitHub. https://github.com/Tennessene/LockBit
+
 # Análisis de SandBox
 
 A continuación realizamos un ejercicio de detonar un ejecutable del malware LOCKBIT y al ejecutarse, verifica privilegios e idioma del sistema para evitar regiones específicas, mientras detecta entornos virtuales (como Wireshark o Process Hacker) para evadir análisis; si identifica un entorno controlado, aborta la ejecución. Su comportamiento incluye cifrado rápido de archivos, eliminación de copias de sombra (vssadmin) y modificación de políticas de grupo para propagarse lateralmente.
@@ -117,14 +126,19 @@ A continuación, un panorama de las vulnerabilidades y tácticas que conforman s
 **Referencia**
 Securin. (2023). All about LockBit ransomware. https://www.securin.io/articles/all-about-lockbit-ransomware
 
-
-**Indicadores de Compromiso LockBit**
+# Indicadores de Compromiso LockBit
 
 Para prevenir infección por este tipo de Ransomware debemos monitorear conexiones RDP no autorizadas, actividad sospechosa con herramientas como PsExec/WMI, y patrones de cifrado rápido con extensiones .lockbit. Implementar detección de comandos maliciosos como vssadmin delete shadows y tráfico a dominios C2 asociados (ej: *.onion).
 
+![image](https://github.com/user-attachments/assets/c62de979-87b9-431b-bccc-14fb9d26be03)
+
+
 **Referencia**
 Cybersecurity and Infrastructure Security Agency. (2023). *AA23-075A: LockBit 3.0 ransomware*. U.S. Department of Homeland Security. https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-075a
-![image](https://github.com/user-attachments/assets/bb1ae710-9a52-454c-a5aa-0571303e0be5)
+
+# Conclusión
+LockBit 3.0 ha perfeccionado el modelo de "ransomware como servicio", donde los creadores alquilan su malware a afiliados a cambio de un porcentaje. Opera como una franquicia criminal: infecta sistemas mediante engaños o fallos de seguridad, elimina respaldos para evitar recuperación, y extorsiona a las víctimas cifrando sus datos y amenazando con filtrarlos. Su éxito radica en su constante evolución técnica y un modelo de negocio escalable que lo hace más persistente que otros grupos similares.
+
 
 
 
