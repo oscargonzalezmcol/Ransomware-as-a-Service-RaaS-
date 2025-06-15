@@ -18,7 +18,7 @@ El grupo mas activo a la fecha para este tipo de servicios de malware es LockBit
 ![image](https://github.com/user-attachments/assets/1a9533de-78fa-4024-acef-b9425ad06522)
 Understanding ransomware threat actors: LockBit. (s/f). Cybersecurity and Infrastructure Security Agency CISA. Recuperado el 15 de junio de 2025, de https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-165a
 
-#Investigaciones sobre este Ramnsomware
+# Investigaciones sobre este Ramnsomware
 Dentro de los siguientes articulos podemos obtener información relevante de como este ramsonware SAAS actua:
 
 1. El FBI, CISA y MS-ISAC alertan sobre el ransomware LockBit 3.0, una versión avanzada y evasiva que opera bajo un modelo Ransomware-as-a-Service (RaaS), permitiendo a afiliados atacar organizaciones mediante técnicas como explotación de RDP, phishing y abuso de cuentas válidas.
