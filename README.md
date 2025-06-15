@@ -1,4 +1,4 @@
-# Ransomware-as-a-Service-RaaS-
+# Ransomware-as-a-Service-RaaS
 Esta nueva modalidad de infección opera mediante grupos especializados de ciberdelincuentes que funcionan bajo un modelo de negocio estructurado, donde socios menos técnicos ("afiliados") distribuyen su malware a cambio de un porcentaje de las ganancias. Este esquema refleja un ecosistema criminal cada vez más sofisticado y descentralizado, permitiendo que actores con distintos niveles de expertise colaboren para escalar los ataques y maximizar su impacto.
 
 Acontinuación lista de grupos reconocidos que usan esta modalidad :
@@ -29,9 +29,17 @@ Dentro de los siguientes articulos podemos obtener información relevante de com
 
 To HADES and back: UNC2165 shifts to LOCKBIT to evade sanctions. (2022, junio 2). Google Cloud Blog. https://cloud.google.com/blog/topics/threat-intelligence/unc2165-shifts-to-evade-sanctions/
 
-# Video de como funciona Lockbit
+# Videos de como funciona Lockbit
+
+Estos videos son un ejemplo de como este tipo de ramsonware infecta los equipos
 
  [![Ver Video](https://img.youtube.com/vi/6PEA0nFyc0Q/0.jpg)](https://www.youtube.com/watch?v=6PEA0nFyc0Q)
+
+[![Ver Video en YouTube](https://img.youtube.com/vi/sS6_1r5hxi8/0.jpg)](https://www.youtube.com/watch?v=sS6_1r5hxi8)
+
+# Analsisi de sandbox
+![image](https://github.com/user-attachments/assets/0ae59d15-b764-468a-baf4-7d961be116bf)
+
 
  
 
