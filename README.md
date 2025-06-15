@@ -42,8 +42,6 @@ Para evadir defensas, borra logs (wevtutil), excluye carpetas del antivirus y se
 
 Understanding ransomware threat actors: LockBit. (s/f). Cybersecurity and Infrastructure Security Agency CISA. Recuperado el 15 de junio de 2025, de https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-165a
 
-
-
 # Videos de como funciona Lockbit
 
 Estos videos son un ejemplo de como este tipo de ramsonware infecta los equipos
@@ -52,8 +50,39 @@ Estos videos son un ejemplo de como este tipo de ramsonware infecta los equipos
 
 [![Ver Video en YouTube](https://img.youtube.com/vi/sS6_1r5hxi8/0.jpg)](https://www.youtube.com/watch?v=sS6_1r5hxi8)
 
+# Artículos científicos clave
+
+**El Ransomware-as-a-Service (RaaS) está evolucionando hacia un modelo más sofisticado y accesible, democratizando la ciberdelincuencia al permitir que actores con pocos conocimientos técnicos lancen ataques devastadores.** Actualmente, las plataformas RaaS ofrecen herramientas más avanzadas, como cifrado adaptativo, evasión de detección y soporte 24/7, lo que ha incrementado su eficacia y propagación. Esto ha llevado a un aumento en ataques contra sectores críticos como salud, educación y gobiernos, con un impacto económico y operacional significativo. Además, la adopción de criptomonedas privadas (como Monero) y técnicas de lavado más complejas dificultan el rastreo de pagos. Como resultado, el RaaS no solo se ha convertido en una amenaza más persistente, sino también en un negocio criminal más rentable y escalable, exigiendo mayores esfuerzos en ciberseguridad, concientización y cooperación internacional para su mitigación.
+
+Referencia
+Meland, P. H., Bayoumy, Y. F. F., & Sindre, G. (2020). "The Ransomware-as-a-Service economy within the darknet". Computers & Security, 92, 101762. https://doi.org/10.1016/j.cose.2020.101762
+Para literatura adicional sobre modelos económicos: Economics of RaaS - Google Scholar
+
 # Analsisi de sandbox
-![image](https://github.com/user-attachments/assets/0ae59d15-b764-468a-baf4-7d961be116bf)
+
+A continuacacion realizamos un ejercision de detonar un ejecutable del malware LOCKBIT y al ejecutarse, verifica privilegios e idioma del sistema para evitar regiones específicas, mientras detecta entornos virtuales (como Wireshark o Process Hacker) para evadir análisis; si identifica un entorno controlado, aborta la ejecución. Su comportamiento incluye cifrado rápido de archivos, eliminación de copias de sombra (vssadmin) y modificación de políticas de grupo para propagarse lateralmente.
+![image](https://github.com/user-attachments/assets/85b48c63-7581-4d09-a72e-d8bed6b2e888)
+
+# Casos reales 2023-2025
+
+Investigando en la red, encontramos varios casos de filtración de información en multiples entidades, acontinuacion alguna de ellas:
+
+El 7 de mayo de 2024, durante la Operación Cronos de la Agencia Nacional contra el Crimen del Reino Unido y sus socios, se reveló la presunta identidad del operador de la franquicia LockBit 3.0, también conocida como LockBitSupp : Dmitry Yuryevich Khoroshev.
+
+El grupo LockBit se atribuye un ataque de ransomware contra un banco del sudeste asiático.
+
+LockBit 3.0 regresó en mayo para lanzar 176 ataques de ransomware, el 37 % del total del mes. Esto representa un enorme aumento intermensual del 665 % para el grupo de ransomware como servicio (RaaS).
+
+**Referencia:**
+
+Rieß-Marchive, V. (2025, 9 de mayo). Ransomware: What the LockBit 3.0 data leak reveals. ComputerWeekly.
+https://www.computerweekly.com/news/366623780/Ransomware-What-the-LockBit-30-data-leak-reveals
+
+Roberts, P. (2023, May 2). LockBit remains most prominent ransomware in May. Infosecurity Magazine.
+https://www.infosecurity-magazine.com/news/lockbit-prominent-ransomware-may/
+
+
+
 
 
  
