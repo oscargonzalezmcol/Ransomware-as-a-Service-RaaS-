@@ -18,3 +18,4 @@ Aqui las TTP's analizadas por parte de la CIA dentro del siguiente articulo:
 
 Understanding ransomware threat actors: LockBit. (s/f). Cybersecurity and Infrastructure Security Agency CISA. Recuperado el 15 de junio de 2025, de https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-165a
 
+
