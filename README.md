@@ -3,11 +3,14 @@ Esta nueva modalidad de infección opera mediante grupos especializados de ciber
 
 Acontinuación lista de grupos reconocidos que usan esta modalidad :
 
-REvil (Sodinokibi) -- (S/f). Akamai.com. Recuperado el 15 de junio de 2025, de https://www.akamai.com/glossary/what-is-revil
+REvil (Sodinokibi)
+(S/f). Akamai.com. Recuperado el 15 de junio de 2025, de https://www.akamai.com/glossary/what-is-revil
 
-LockBit -- (S/f-b). Hipaajournal.com. Recuperado el 15 de junio de 2025, de https://www.hipaajournal.com/lockbit-ransomware-group-hacked/
+LockBit
+(S/f-b). Hipaajournal.com. Recuperado el 15 de junio de 2025, de https://www.hipaajournal.com/lockbit-ransomware-group-hacked/
 
-BlackCat (ALPHV) -- (S/f). Akamai.com. Recuperado el 15 de junio de 2025, de https://www.akamai.com/es/glossary/what-is-blackcat-ransomware
+BlackCat (ALPHV)
+(S/f). Akamai.com. Recuperado el 15 de junio de 2025, de https://www.akamai.com/es/glossary/what-is-blackcat-ransomware
 
 El grupo mas activo a la fecha para este tipo de servicios de malware es LockBit que busca automáticamente objetivos valiosos, propaga la infección y cifra todos los sistemas informáticos accesibles en una red.
 
