@@ -51,9 +51,9 @@ Estos videos son un ejemplo de cómo este tipo de Ransomware infecta los equipos
 
 # Artículos científicos clave
 
-**El Ransomware-as-a-Service (RaaS) está evolucionando hacia un modelo más sofisticado y accesible, democratizando la ciberdelincuencia al permitir que actores con pocos conocimientos técnicos lancen ataques devastadores. ** Actualmente, las plataformas RaaS ofrecen herramientas más avanzadas, como cifrado adaptativo, evasión de detección y soporte 24/7, lo que ha incrementado su eficacia y propagación. Esto ha llevado a un aumento en ataques contra sectores críticos como salud, educación y gobiernos, con un impacto económico y operacional significativo. Además, la adopción de criptomonedas privadas (como Monero) y técnicas de lavado más complejas dificultan el rastreo de pagos. Como resultado, el RaaS no solo se ha convertido en una amenaza más persistente, sino también en un negocio criminal más rentable y escalable, exigiendo mayores esfuerzos en ciberseguridad, concientización y cooperación internacional para su mitigación.
+El Ransomware-as-a-Service (RaaS) está evolucionando hacia un modelo más sofisticado y accesible, democratizando la ciberdelincuencia al permitir que actores con pocos conocimientos técnicos lancen ataques devastadores. ** Actualmente, las plataformas RaaS ofrecen herramientas más avanzadas, como cifrado adaptativo, evasión de detección y soporte 24/7, lo que ha incrementado su eficacia y propagación. Esto ha llevado a un aumento en ataques contra sectores críticos como salud, educación y gobiernos, con un impacto económico y operacional significativo. Además, la adopción de criptomonedas privadas (como Monero) y técnicas de lavado más complejas dificultan el rastreo de pagos. Como resultado, el RaaS no solo se ha convertido en una amenaza más persistente, sino también en un negocio criminal más rentable y escalable, exigiendo mayores esfuerzos en ciberseguridad, concientización y cooperación internacional para su mitigación.
 
-Referencia
+**Referencia:**
 Meland, P. H., Bayoumy, Y. F. F., & Sindre, G. (2020). "The Ransomware-as-a-Service economy within the darknet". Computers & Security, 92, 101762. https://doi.org/10.1016/j.cose.2020.101762
 Para literatura adicional sobre modelos económicos: Economics of RaaS - Google Scholar
 
@@ -72,7 +72,7 @@ El grupo LockBit se atribuye un ataque de Ransomware contra un banco del sudeste
 
 LockBit 3.0 regresó en mayo para lanzar 176 ataques de ransomware, el 37 % del total del mes. Esto representa un enorme aumento intermensual del 665 % para el grupo de ransomware como servicio (RaaS).
 
-**Referencia: **
+**Referencia:**
 
 Rieß-Marchive, V. (2025, 9 de mayo). Ransomware: What the LockBit 3.0 data leak reveals. ComputerWeekly.
 https://www.computerweekly.com/news/366623780/Ransomware-What-the-LockBit-30-data-leak-reveals
@@ -109,7 +109,7 @@ Recuperado de https://www.trendmicro.com/vinfo/us/security/news/ransomware-by-th
 
 # LockBit: A Cheat Sheet and IOC
 
-LockBit opera bajo el modelo **Ransomware-as-a-Service (RaaS)**: un pequeño grupo de desarrolladores provee la infraestructura y el código, mientras que afiliados externos ejecutan los ataques por comisión, repartiéndose las ganancias. A continuación, un panorama de las vulnerabilidades y tácticas que conforman su arsenal.
+A continuación, un panorama de las vulnerabilidades y tácticas que conforman su arsenal.
 
 ![image](https://github.com/user-attachments/assets/5656ca9c-dcc3-4c0d-ae9e-ea92c2b8c826)
 
