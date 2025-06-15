@@ -11,7 +11,7 @@ BlackCat (ALPHV) -- (S/f). Akamai.com. Recuperado el 15 de junio de 2025, de htt
 
 El grupo mas activo a la fecha para este tipo de servicios de malware es LockBit que busca automáticamente objetivos valiosos, propaga la infección y cifra todos los sistemas informáticos accesibles en una red.
 
-Aqui las TTP's analizadas por parte de la CIA dentro del siguiente articulo:
+# Aqui las TTP's analizadas por parte de la CIA dentro del siguiente articulo:
 ![image](https://github.com/user-attachments/assets/1a9533de-78fa-4024-acef-b9425ad06522)
 
 
