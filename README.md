@@ -81,7 +81,24 @@ https://www.computerweekly.com/news/366623780/Ransomware-What-the-LockBit-30-dat
 Roberts, P. (2023, May 2). LockBit remains most prominent ransomware in May. Infosecurity Magazine.
 https://www.infosecurity-magazine.com/news/lockbit-prominent-ransomware-may/
 
+# Comparativa de LockBit con otros RAAS
 
+LockBit se consolidó como el RaaS más exitoso gracias a su modelo de negocio altamente eficiente:
+
+**LockBit**
+* Líder en 2023 con el 26% de ataques, destacando ataques a Royal Mail y TSMC.
+* Modelo RaaS eficiente (hasta 90% para afiliados) y resiliente a operaciones policiales.
+* Enfocado en TI, finanzas y servicios profesionales, principalmente en EE.UU. y Europa.
+
+**BlackCat (ALPHV)**
+* Tecnología avanzada (variante Sphynx en Rust) y extorsión triple.
+* Atacó NextGen Healthcare y Reddit (exigiendo $4.5M).
+* Más del 50% de víctimas en Norteamérica, con foco en salud y finanzas.
+
+**Clop**
+* Especializado en explotar vulnerabilidades (GoAnywhere, MOVEit, PaperCut).
+* 50% de sus víctimas fueron grandes empresas (Shell, Departamento de Energía de EE.UU.).
+* Concentró el 71.6% de ataques en Norteamérica, con rescates multimillonarios.
 
 
 
