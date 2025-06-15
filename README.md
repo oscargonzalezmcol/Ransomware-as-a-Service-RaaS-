@@ -89,7 +89,7 @@ https://www.computerweekly.com/news/366623780/Ransomware-What-the-LockBit-30-dat
 Roberts, P. (2023, May 2). LockBit remains most prominent ransomware in May. Infosecurity Magazine.
 https://www.infosecurity-magazine.com/news/lockbit-prominent-ransomware-may/
 
-# Comparativa de LockBit con otros RAAS
+# Comparativa de LockBit por versionamiento RAAS
 
 LockBit debutó en 2019 con su versión 1.0 (“ABCD”), centrada en un cifrado multihilo básico; en 2021 llegó LockBit 2.0 o *Red*, que profesionalizó el modelo RaaS con un portal para afiliados y doble extorsión. En 2022, LockBit 3.0 o *Black* añadió triple extorsión, un programa de recompensas y su *builder* filtrado, mientras que la variante *Green* (2023) integró código de Conti y técnicas avanzadas de evasión. Desde 2024 se observan builds 4.x con mejoras incrementales—BYOVD, soporte ESXi/NAS—manteniendo el reparto clásico 80 / 20 entre desarrolladores y afiliados.
 
