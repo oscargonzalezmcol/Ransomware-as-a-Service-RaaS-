@@ -100,6 +100,20 @@ LockBit se consolidó como el RaaS más exitoso gracias a su modelo de negocio a
 * 50% de sus víctimas fueron grandes empresas (Shell, Departamento de Energía de EE.UU.).
 * Concentró el 71.6% de ataques en Norteamérica, con rescates multimillonarios.
 
+**Referencia**
+Trend Micro. (2023). LockBit, BlackCat, and Clop prevail as top RaaS groups for 1H 2023.
+Recuperado de https://www.trendmicro.com/vinfo/us/security/news/ransomware-by-the-numbers/lockbit-blackcat-and-clop-prevail-as-top-raas-groups-for-1h-2023
+
+# LockBit: A Cheat Sheet
+
+LockBit opera bajo el modelo **Ransomware-as-a-Service (RaaS)**: un pequeño grupo de desarrolladores provee la infraestructura y el código, mientras que afiliados externos ejecutan los ataques por comisión, repartiéndose las ganancias. A continuación, un panorama de las vulnerabilidades y tácticas que conforman su arsenal.
+
+![image](https://github.com/user-attachments/assets/5656ca9c-dcc3-4c0d-ae9e-ea92c2b8c826)
+
+**Referencia**
+Securin. (2023). All about LockBit ransomware. https://www.securin.io/articles/all-about-lockbit-ransomware
+
+
 
 
  
