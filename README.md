@@ -1,6 +1,6 @@
 # Ransomware as a Service (RaaS)
 
-Los objetivos es analizar exhaustivamente el modelo Ransomware-as-a-Service (RaaS) de LockBit 3.0:
+Los objetivos es analizar exhaustivamente el modelo Ransomware-as-a-Service (RaaS) de LockBit 3.0, a continuación puntos relevantes de esta recopilación de información:
 
 1. El vector de ataque completo (inicial → persistencia → cifrado → doble extorsión).
 2. Las tácticas, técnicas y procedimientos (TTP) mapeadas a MITRE ATT&CK.
@@ -8,7 +8,7 @@ Los objetivos es analizar exhaustivamente el modelo Ransomware-as-a-Service (Raa
 4. Medidas de mitigación alineadas a CIS Controls y NIST CSF.
 5. Tendencias del ecosistema RaaS y comparativa con REvil, BlackCat y RansomHub.
 
-**Grupos reconocidos que utilizan esta modalidad**
+**Grupos adversarios que utilizan este modelo de RAAS**
 
 REvil (Sodinokibi)    
 (S/f). Akamai.com. Recuperado el 15 de junio de 2025, de https://www.akamai.com/glossary/what-is-revil
