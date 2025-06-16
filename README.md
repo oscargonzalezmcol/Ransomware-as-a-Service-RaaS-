@@ -51,10 +51,11 @@ Estos videos son un ejemplo de cómo este tipo de Ransomware infecta los equipos
 
 # Artículos científicos clave
 
-El Ransomware-as-a-Service (RaaS) está evolucionando hacia un modelo más sofisticado y accesible, democratizando la ciberdelincuencia al permitir que actores con pocos conocimientos técnicos lancen ataques devastadores. ** Actualmente, las plataformas RaaS ofrecen herramientas más avanzadas, como cifrado adaptativo, evasión de detección y soporte 24/7, lo que ha incrementado su eficacia y propagación. Esto ha llevado a un aumento en ataques contra sectores críticos como salud, educación y gobiernos, con un impacto económico y operacional significativo. Además, la adopción de criptomonedas privadas (como Monero) y técnicas de lavado más complejas dificultan el rastreo de pagos. Como resultado, el RaaS no solo se ha convertido en una amenaza más persistente, sino también en un negocio criminal más rentable y escalable, exigiendo mayores esfuerzos en ciberseguridad, concientización y cooperación internacional para su mitigación.
+El Ransomware as a Service (RaaS) está evolucionando hacia un modelo más sofisticado y accesible, democratizando la ciberdelincuencia al permitir que actores con pocos conocimientos técnicos lancen ataques devastadores. Actualmente, las plataformas RaaS ofrecen herramientas más avanzadas, como cifrado adaptativo, evasión de detección y soporte 24/7, lo que ha incrementado su eficacia y propagación. Esto ha llevado a un aumento en ataques contra sectores críticos como salud, educación y gobiernos, con un impacto económico y operacional significativo. Además, la adopción de criptomonedas privadas (como Monero) y técnicas de lavado más complejas dificultan el rastreo de pagos. Como resultado, el RaaS no solo se ha convertido en una amenaza más persistente, sino también en un negocio criminal más rentable y escalable, exigiendo mayores esfuerzos en ciberseguridad, concientización y cooperación internacional para su mitigación.
 
 **Referencia:**
-Meland, P. H., Bayoumy, Y. F. F., & Sindre, G. (2020). "The Ransomware-as-a-Service economy within the darknet". Computers & Security, 92, 101762. https://doi.org/10.1016/j.cose.2020.101762
+Meland, P. H., Bayoumy, Y. F. F., & Sindre, G. (2020). "The Ransomware as a Service economy within the darknet". Computers & Security, 92, 101762. https://doi.org/10.1016/j.cose.2020.101762
+         
 Para literatura adicional sobre modelos económicos: Economics of RaaS - Google Scholar
 
 # Codigo ejemplo
@@ -91,7 +92,7 @@ https://www.infosecurity-magazine.com/news/lockbit-prominent-ransomware-may/
 
 # Comparativa de LockBit por versionamiento RAAS
 
-LockBit debutó en 2019 con su versión 1.0 (“ABCD”), centrada en un cifrado multihilo básico; en 2021 llegó LockBit 2.0 o *Red*, que profesionalizó el modelo RaaS con un portal para afiliados y doble extorsión. En 2022, LockBit 3.0 o *Black* añadió triple extorsión, un programa de recompensas y su *builder* filtrado, mientras que la variante *Green* (2023) integró código de Conti y técnicas avanzadas de evasión. Desde 2024 se observan builds 4.x con mejoras incrementales—BYOVD, soporte ESXi/NAS—manteniendo el reparto clásico 80 / 20 entre desarrolladores y afiliados.
+LockBit debutó en 2019 con su versión 1.0 (“ABCD”), centrada en un cifrado multihilo básico; en 2021 llegó LockBit 2.0 o *Red*, que profesionalizó el modelo RaaS con un portal para afiliados y doble extorsión (roban datos y cifran datos del sistema). En 2022, LockBit 3.0 o *Black* añadió triple extorsión(filtración de datos,cifran datos y ataques DOS), un programa de recompensas y su *builder* filtrado, mientras que la variante *Green* (2023) integró código de Conti y técnicas avanzadas de evasión. Desde 2024 se observan builds 4.x con mejoras incrementales—BYOVD, soporte ESXi/NAS—manteniendo el reparto clásico 80 / 20 entre desarrolladores y afiliados.
 
 ![image](https://github.com/user-attachments/assets/44ff3b5e-6bb8-462b-b0f5-3ffbe6c242e6)
 
