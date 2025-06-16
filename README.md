@@ -67,7 +67,7 @@ Existen múltiples variantes y fragmentos de código de este ransomware distribu
 TXOne Networks. (2023). Malware analysis: LockBit 3.0. https://www.txone.com/blog/malware-analysis-lockbit-3-0/
 Tennessene. (2023). LockBit [Source code]. GitHub. https://github.com/Tennessene/LockBit
 
-# Análisis de SandBox
+# Análisis de SandBox en Joe SandBox Cloud
 
 A continuación realizamos un ejercicio de detonar un ejecutable del malware LOCKBIT y al ejecutarse, verifica privilegios e idioma del sistema para evitar regiones específicas, mientras detecta entornos virtuales (como Wireshark o Process Hacker) para evadir análisis; si identifica un entorno controlado, aborta la ejecución. Su comportamiento incluye cifrado rápido de archivos, eliminación de copias de sombra (vssadmin) y modificación de políticas de grupo para propagarse lateralmente.
 ![image](https://github.com/user-attachments/assets/85b48c63-7581-4d09-a72e-d8bed6b2e888)
